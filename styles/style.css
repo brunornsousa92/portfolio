@@ -110,6 +110,7 @@ body {
     width: 50%;
     border: 3px solid var(--cor-terciaria);
     border-radius: 25px;
+    filter: grayscale(1);
 }
 
 .rodape {
